@@ -30,5 +30,20 @@ http
                     res.end(data)
                 });
             break
+            case '/honey': 
+                fs.readFile("puzz5.html", (err, data) => {
+                    res.end(data)
+                });
+            break
+            case '/smoke': 
+                fs.readFile("puzz6.html", (err, data) => {
+                    res.end(data)
+                });
+            break
+            case '/royaljelly': 
+            fs.readFile("end.html", (err, data) => {
+                res.end(data)
+            });
+            break
             }
     }).listen(3000)

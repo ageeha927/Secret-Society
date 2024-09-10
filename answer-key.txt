@@ -1,0 +1,43 @@
+1.
+HTML File: index
+Puzzle: who is this from?
+Hint: - 6
+URL: /6
+
+2.
+HTML File: puzz1
+Puzzle: Highlight the hidden text.
+Hint: CONTRAST?
+URL: /yes
+
+3.
+HTML File: puzz2
+Puzzle: Finish the lyric
+Hint: The lyric
+URL: /yellow
+
+4.
+HTML File: puzz3
+Puzzle: What's the movie?
+Hint: The movie script
+URL: /thebeemovie
+
+5.
+HTML File: puzz4
+Puzzle: What is a common thing bears love in mainstream media?
+Hint: The question
+URL: /honey
+
+6.
+HTML File: puzz5
+Puzzle: What do beekeepers use to calm bees?
+Hint: THe photo/text
+URL: /smoke
+
+7.
+HTML File: puzz6
+Puzzle: What do queen bees need/eat?
+Hint: THe photo/text
+URL: /royal jelly
+
+End: The morse code just says THE HIVE
